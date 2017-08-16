@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'db_sample_wp');
+define('DB_NAME', 'db_sample_wsp');
 
 /** MySQL database username */
 define('DB_USER', 'root');
@@ -36,6 +36,7 @@ define('DB_CHARSET', 'utf8mb4');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+
 
 /**#@+
  * Authentication Unique Keys and Salts.
